@@ -1,7 +1,7 @@
 # Guttman Chart Analyzation System
 
 ## Introduction
-Guttman chart is useful for educators to analyse students' academic performance. Through the chart, teachers can intuitively see irrgular patterns or odd behaviours among a group of students.
+Guttman chart is useful for educators to analyse students' academic performance. Through the chart, teachers can intuitively see irrgular patterns or odd behaviours among a group of students. Hence, they can find students' Zones of Personal Development(ZPD) and adjust future teaching plannings.
 
 The educator collect students' assessment data and convert it into a guttman chart format file (normally an Excel file). He/she then can upload this guttman chart format file to this system, which can automatically analyze the assessment data. The system can find out which part of the assessment data is odd and irregular and can be visually rendered on the website.
 
